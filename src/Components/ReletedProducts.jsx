@@ -3,7 +3,7 @@ import { useContext, useEffect, useState } from "react";
 
 import { ShopContext } from "../Context/ShopContext";
 import Productsitem from "./Productsitem";
-import Title from "..Components/Title";
+import Title from "./Title";
 
 
 // eslint-disable-next-line react/prop-types
