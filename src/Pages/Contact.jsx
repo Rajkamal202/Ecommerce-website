@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import { assets } from '../assets/assets';
-import Title from "../Components/Title";
+import Title from "../components/Title";
 import { MapPin, Phone, Mail, Briefcase } from "lucide-react";
-import Newsletter from '../Components/Newsletter';
+import Newsletter from '../components/Newsletter';
 
 const Contact = () => {
   const [formData, setFormData] = useState({

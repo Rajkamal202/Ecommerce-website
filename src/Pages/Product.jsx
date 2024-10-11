@@ -2,7 +2,7 @@ import { useContext, useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { assets } from "../assets/assets"; // Import assets such as icons and images
 import { ShopContext } from "../Context/ShopContext"; // Import Shop context to use global state
-import RelatedProducts from "../Components/ReletedProducts"; // Import the RelatedProducts component
+import RelatedProducts from "../components/ReletedProducts"; // Import the RelatedProducts component
 
 const Product = () => {
   // Extract productId from URL parameters using useParams

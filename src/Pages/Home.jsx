@@ -1,10 +1,10 @@
 
-import BestSeller from "../Components/BestSeller"
+import BestSeller from "../components/BestSeller"
 
-import Hero from "../Components/Hero"
-import LatestCollection from "../Components/LatestCollection"
-import Newsletter from "../Components/Newsletter"
-import OurPollicy from "../Components/OurPollicy"
+import Hero from "../components/Hero"
+import LatestCollection from "../components/LatestCollection"
+import Newsletter from "../components/Newsletter"
+import OurPollicy from "../components/OurPollicy"
 
 const Home = () => {
   return (
