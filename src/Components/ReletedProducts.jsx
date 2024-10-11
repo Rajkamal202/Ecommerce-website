@@ -1,8 +1,10 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useContext, useEffect, useState } from "react";
-import Title from "./Title";
+
 import { ShopContext } from "../Context/ShopContext";
 import Productsitem from "./Productsitem";
+import Title from '../components/Title';
+
 
 // eslint-disable-next-line react/prop-types
 const RelatedProducts = ({ category, subCategory }) => {
