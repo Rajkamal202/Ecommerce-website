@@ -1,8 +1,10 @@
 import { useContext, useState } from 'react';
 import { ShopContext } from '../Context/ShopContext';
-import Title from '../Components/Title';
-import CartTotal from '../Components/CartTotal';
+
+
 import { assets } from '../assets/assets';
+import CartTotal from '../components/CartTotal';
+import Title from '../components/Title';
 
 
 const Placeorder = () => {
