@@ -3,7 +3,8 @@ import { ShopContext } from "../Context/ShopContext"
 
 import { useEffect } from "react"
 import Productsitem from "./Productsitem"
-import Title from "..Components/Title";
+import Title from "./Title"
+
 
 
 const LatestCollection = () => {
