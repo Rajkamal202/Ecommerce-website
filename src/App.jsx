@@ -8,7 +8,7 @@ import Orders from "./Pages/Orders"
 import PlaceOrder from "./Pages/PlaceOrder"
 import Product from "./Pages/Product"
 import Contact from "./Pages/Contact"
-import Navbar from "./components/Navbar"
+import Navbar from './components/Navbar';
 import Footer from "./components/Footer"
 import LatestCollection from "./components/LatestCollection"
 import SearchBar from "./components/SearchBar"
