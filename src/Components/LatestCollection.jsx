@@ -1,8 +1,10 @@
 import { useContext, useState } from "react"
 import { ShopContext } from "../Context/ShopContext"
-import Title from '../components/Title';
+
 import { useEffect } from "react"
 import Productsitem from "./Productsitem"
+import Title from "..Components/Title";
+
 
 const LatestCollection = () => {
 

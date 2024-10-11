@@ -1,11 +1,8 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useContext, useEffect, useState } from "react";
-
-
-
 import { ShopContext } from "../Context/ShopContext";
 import Productsitem from "./Productsitem";
-import Title from '../components/Title';
+import Title from "../Components/Title";
 
 
 const BestSeller = () => {
