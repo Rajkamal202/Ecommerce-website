@@ -2,7 +2,7 @@
 import { assets } from '../assets/assets';
 import Newsletter from '../Components/Newsletter';
 
-import Title from "../Components/Title";
+import Title from '../components/Title';
 
 const About = () => {
   return (
